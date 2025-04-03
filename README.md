@@ -1,5 +1,5 @@
-<h2 align="center">Hi 👋, I'm P. Surya Vaishnavi</h2>
-<h4 align="center">A passionate MLOps developer from India</h4>
+<h1 align="center">Hi 👋, I'm P. Surya Vaishnavi</h1>
+<h3 align="left">An MLOps Engineer from India</h3>
 
 - 👀 I’m interested in exploring **Generative AI Models and Deep Learning**
 
