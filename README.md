@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Cloud Native Projects**
 
-- 📝 I regularly write articles on [https://medium.com/@vaish610](https://medium.com/@vaish610)
+- 📝 I regularly write articles on [https://medium.com/@vaish0602](https://medium.com/@vaish0602)
 
 - 💬 Ask me about **AWS,Docker,Terraform**
 
